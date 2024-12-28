@@ -1,0 +1,6 @@
+# 【全球币神交易所（JAVA内核）】Java交易所开发OTC币币交易交易所永续秒跟单交易所AI
+
+【全球币神交易所（JAVA内核）】<br>example.com：<br>改动内容：上线新功能“秒合/约”（H5端、PC端），优化合/约币币经常没有k线问题；<br>已上线演示站地址：<br> 官网登录窗口：http://example.com/<br>演示账户：13800008888密码：123456<br> PC端：example.com<br> H5端：example.com<br> 后台演示：example.com/;   账号：root 密码：123456<br>黑金标准APP1：example.com.com/download/example.com<br>紫黑跟单APP2：example.com.com/download/example.com<br>黑金全能版APP3：example.com.com/download/example.com<br>演示账户：13800008888密码：123456<br>主要功能：JAVA内核、高并发、高安全<br>币币交易、法/币OTC、永续合/约，期权、带单跟单、算力挖/矿、理财宝<br>——主要技术<br>-后端：Spring、SpringMVC、SpringData、SpringCloud、SpringBoot<br>-数据库：Mysql、Mongodb<br>-其他：redis、kafka、阿里云OSS、腾讯防水校验、环信推送<br>-同时提供IOS和Android版本。<br>Java交易所开发,OTC币币交易,交易所,永续,秒,跟单交易所,AI量化交易所<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/2VGdh" style="color: red;">https://mega-file.org/2VGdh</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
